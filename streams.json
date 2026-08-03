@@ -250,5 +250,86 @@
     "lng": -118.1937,
     "type": "youtube",
     "url": "https://www.youtube.com/embed/jxnehowX-9Y?autoplay=1"
+  },
+  {
+    "id": "yt-aljazeera",
+    "name": "Al Jazeera English",
+    "location": "Doha, Qatar",
+    "lat": 25.3155,
+    "lng": 51.5218,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/live_stream?channel=UCNye-wNBqNL5ZzHSJj3l8Bg&autoplay=1"
+  },
+  {
+    "id": "yt-skynews",
+    "name": "Sky News",
+    "location": "London, UK",
+    "lat": 51.488,
+    "lng": -0.324,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/live_stream?channel=UCoMdktPbSTixAyNGwb-UYkQ&autoplay=1"
+  },
+  {
+    "id": "yt-dwnews",
+    "name": "DW News",
+    "location": "Bonn, Germany",
+    "lat": 50.7169,
+    "lng": 7.1265,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/live_stream?channel=UCknLrEdhRCp1aegoMqRaCEg&autoplay=1"
+  },
+  {
+    "id": "yt-france24",
+    "name": "France 24",
+    "location": "Paris, France",
+    "lat": 48.8285,
+    "lng": 2.2709,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/live_stream?channel=UCQfwfsi5VrQ8yKZ-UWmAEFg&autoplay=1"
+  },
+  {
+    "id": "yt-abcaustralia",
+    "name": "ABC News Australia",
+    "location": "Sydney, Australia",
+    "lat": -33.8808,
+    "lng": 151.1994,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/live_stream?channel=UCmaCB1sT2j4tK4H36xSg8-w&autoplay=1"
+  },
+  {
+    "id": "yt-ndtv",
+    "name": "NDTV India",
+    "location": "New Delhi, India",
+    "lat": 28.5562,
+    "lng": 77.2255,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/live_stream?channel=UCqKifOVh_0_xT20tX-U7zcw&autoplay=1"
+  },
+  {
+    "id": "yt-nbcnews",
+    "name": "NBC News",
+    "location": "New York, USA",
+    "lat": 40.759,
+    "lng": -73.979,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/live_stream?channel=UCeY0bbntWzzVIaj2z3QigXg&autoplay=1"
+  },
+  {
+    "id": "yt-euronews",
+    "name": "EuroNews",
+    "location": "Lyon, France",
+    "lat": 45.7428,
+    "lng": 4.8194,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/live_stream?channel=UCSrZ3GWuQqvnPw0-W39zVkQ&autoplay=1"
+  },
+  {
+    "id": "yt-cna",
+    "name": "CNA (Channel News Asia)",
+    "location": "Singapore",
+    "lat": 1.2996,
+    "lng": 103.8456,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/live_stream?channel=UC83jt4dlz1Gjl58fzQrrKZg&autoplay=1"
   }
 ]

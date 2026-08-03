@@ -1,0 +1,254 @@
+[
+  {
+    "id": "live-redbull",
+    "name": "RedBull TV Live (Sports)",
+    "location": "Salzburg, Austria",
+    "lat": 47.8095,
+    "lng": 13.055,
+    "type": "hls",
+    "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
+  },
+  {
+    "id": "live-trt",
+    "name": "TRT World Live (News)",
+    "location": "Istanbul, Turkey",
+    "lat": 41.0082,
+    "lng": 28.9784,
+    "type": "hls",
+    "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "id": "live-dw",
+    "name": "DW News (Continuous)",
+    "location": "Berlin, Germany",
+    "lat": 52.52,
+    "lng": 13.405,
+    "type": "hls",
+    "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
+  },
+  {
+    "id": "live-cbs",
+    "name": "CBS News (Continuous)",
+    "location": "Washington D.C., USA",
+    "lat": 38.9072,
+    "lng": -77.0369,
+    "type": "hls",
+    "url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8"
+  },
+  {
+    "id": "3CatCameresdeltemps.es",
+    "name": "3Cat Cameres del temps",
+    "location": "Spain",
+    "lat": 41.25529049369855,
+    "lng": -3.3129172923453627,
+    "type": "hls",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8"
+  },
+  {
+    "id": "AtacamaNoticias.cl",
+    "name": "Atacama Noticias",
+    "location": "Chile",
+    "lat": -36.60106093198155,
+    "lng": -71.25498913967299,
+    "type": "hls",
+    "url": "https://v2.tustreaming.cl/atacamanoticias/index.m3u8"
+  },
+  {
+    "id": "AtacamaTV.cl",
+    "name": "Atacama TV",
+    "location": "Chile",
+    "lat": -36.42333700113476,
+    "lng": -70.90347546076592,
+    "type": "hls",
+    "url": "https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.ts.m3u8"
+  },
+  {
+    "id": "CAM10TV.cm",
+    "name": "CAM 10 TV",
+    "location": "Cameroon",
+    "lat": 7.4759725749511,
+    "lng": 11.412246700453611,
+    "type": "hls",
+    "url": "https://stream.it-innov.com/cam10tv/index.m3u8"
+  },
+  {
+    "id": "CameradeiDeputati.it",
+    "name": "Camera dei Deputati",
+    "location": "Italy",
+    "lat": 41.340153777508355,
+    "lng": 11.667608565948177,
+    "type": "hls",
+    "url": "https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8"
+  },
+  {
+    "id": "CameraSmileTV.us",
+    "name": "Camera Smile TV",
+    "location": "United States",
+    "lat": 37.06475508588695,
+    "lng": -95.42572581548535,
+    "type": "hls",
+    "url": "https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8"
+  },
+  {
+    "id": "CampoAbiertoTV.cl",
+    "name": "Campo Abierto TV",
+    "location": "Chile",
+    "lat": -36.42171207937139,
+    "lng": -71.3639369012372,
+    "type": "hls",
+    "url": "https://v2.tustreaming.cl/catvlive/index.m3u8"
+  },
+  {
+    "id": "CampSpoopy.us",
+    "name": "Camp Spoopy",
+    "location": "United States",
+    "lat": 36.83592990270374,
+    "lng": -96.37605057640127,
+    "type": "hls",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=269"
+  },
+  {
+    "id": "CampusTV.cl",
+    "name": "CampusTV",
+    "location": "Chile",
+    "lat": -35.41016502294669,
+    "lng": -72.3469070182228,
+    "type": "hls",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8"
+  },
+  {
+    "id": "CampusTV.hn",
+    "name": "Campus TV",
+    "location": "Honduras",
+    "lat": 15.000402775937976,
+    "lng": -86.95003575867851,
+    "type": "hls",
+    "url": "https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8"
+  },
+  {
+    "id": "ElCaminoTV.sv",
+    "name": "El Camino TV",
+    "location": "El Salvador",
+    "lat": 13.74597417444959,
+    "lng": -89.65489274898817,
+    "type": "hls",
+    "url": "https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8"
+  },
+  {
+    "id": "ElMundodelCampo.co",
+    "name": "El Mundo del Campo",
+    "location": "Colombia",
+    "lat": 4.095133851717939,
+    "lng": -73.91261688571447,
+    "type": "hls",
+    "url": "https://movil.ejeserver.com/live/elmundodelcampo.m3u8"
+  },
+  {
+    "id": "IglesiaDelCamino.gt",
+    "name": "Iglesia Del Camino",
+    "location": "Guatemala",
+    "lat": 16.215156186846002,
+    "lng": -89.36794172685318,
+    "type": "hls",
+    "url": "http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8"
+  },
+  {
+    "id": "OneTVESchoolCambodia.kh",
+    "name": "One TV E-School Cambodia",
+    "location": "Cambodia",
+    "lat": 12.090784281367466,
+    "lng": 105.30388838879563,
+    "type": "hls",
+    "url": "http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8"
+  },
+  {
+    "id": "PhillyCAM.us",
+    "name": "PhillyCAM",
+    "location": "United States",
+    "lat": 37.650557850514154,
+    "lng": -96.62666938974701,
+    "type": "hls",
+    "url": "https://livestream.telvue.com/phillycam1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+  },
+  {
+    "id": "RadioCamilaTV.cl",
+    "name": "Radio Camila TV",
+    "location": "Chile",
+    "lat": -36.66489596980485,
+    "lng": -70.80945997945386,
+    "type": "hls",
+    "url": "https://panel.tvstream.cl:1936/8008/8008/playlist.m3u8"
+  },
+  {
+    "id": "TVCamara.br",
+    "name": "TV Camara",
+    "location": "Brazil",
+    "lat": -14.516742208385148,
+    "lng": -51.47603469919907,
+    "type": "hls",
+    "url": "http://45.162.64.114/TV_CAMARA/index.m3u8"
+  },
+  {
+    "id": "TVCampane1.it",
+    "name": "TV Campane 1",
+    "location": "Italy",
+    "lat": 42.670848768693155,
+    "lng": 13.318534574323952,
+    "type": "hls",
+    "url": "https://eu1.servers10.com:8081/8032/index.m3u8"
+  },
+  {
+    "id": "TVManaMocambique.mz",
+    "name": "TV Mana Mocambique",
+    "location": "Mozambique",
+    "lat": -19.34147977487659,
+    "lng": 35.66675704546157,
+    "type": "hls",
+    "url": "https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8"
+  },
+  {
+    "id": "yt-earthcam",
+    "name": "EarthCam (Times Square)",
+    "location": "New York City, USA",
+    "lat": 40.758,
+    "lng": -73.9855,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/live_stream?channel=UCJT_Zk3Fj5oVz2F0N7tFk5g&autoplay=1"
+  },
+  {
+    "id": "yt-jacksonhole",
+    "name": "Jackson Hole Town Square",
+    "location": "Jackson, Wyoming, USA",
+    "lat": 43.4799,
+    "lng": -110.7624,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/1EiC9bvVGnk?autoplay=1"
+  },
+  {
+    "id": "yt-lofigirl",
+    "name": "Lofi Girl Radio",
+    "location": "Paris, France",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/jfKfPfyJRdk?autoplay=1"
+  },
+  {
+    "id": "yt-nasa",
+    "name": "NASA Live Official",
+    "location": "Houston, Texas, USA",
+    "lat": 29.5502,
+    "lng": -95.097,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/21X5lGlDOfg?autoplay=1"
+  },
+  {
+    "id": "yt-explore",
+    "name": "Explore Oceans",
+    "location": "Long Beach, California",
+    "lat": 33.7701,
+    "lng": -118.1937,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/live_stream?channel=UCF9Kew7Kk-HnK-H5aW-J07g&autoplay=1"
+  }
+]

@@ -6,7 +6,16 @@
     "lat": 40.759,
     "lng": -73.979,
     "type": "youtube",
-    "url": "https://www.youtube.com/embed/live_stream?channel=UChDKyKQ59fYz3JO2fl0Z6sg&autoplay=1"
+    "url": "https://www.youtube.com/embed/AKaDsZhvtxw?autoplay=1"
+  },
+  {
+    "id": "yt-ABCNews",
+    "name": "ABC News",
+    "location": "New York, USA",
+    "lat": 40.7735,
+    "lng": -73.9818,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/J91eUyB_Fuc?autoplay=1"
   },
   {
     "id": "yt-CBSNews",
@@ -15,7 +24,7 @@
     "lat": 40.77,
     "lng": -73.988,
     "type": "youtube",
-    "url": "https://www.youtube.com/embed/live_stream?channel=UC-SJ6nODDmufqBzPBwCvYvQ&autoplay=1"
+    "url": "https://www.youtube.com/embed/8oz8JHaufHk?autoplay=1"
   },
   {
     "id": "yt-livenowfox",
@@ -24,7 +33,16 @@
     "lat": 28.5383,
     "lng": -81.3792,
     "type": "youtube",
-    "url": "https://www.youtube.com/embed/live_stream?channel=UCDiPds0v60wueil5B8w3fPQ&autoplay=1"
+    "url": "https://www.youtube.com/embed/hZx4qqnC2R0?autoplay=1"
+  },
+  {
+    "id": "yt-cbcnews",
+    "name": "CBC News",
+    "location": "Toronto, Canada",
+    "lat": 43.6444,
+    "lng": -79.3875,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/5vfaDsMhCF4?autoplay=1"
   },
   {
     "id": "yt-SkyNews",
@@ -33,7 +51,7 @@
     "lat": 51.488,
     "lng": -0.324,
     "type": "youtube",
-    "url": "https://www.youtube.com/embed/live_stream?channel=UCkFclpi8U9VJjfxLYoms7Aw&autoplay=1"
+    "url": "https://www.youtube.com/embed/k5ltKSc8aHQ?autoplay=1"
   },
   {
     "id": "yt-dwnews",
@@ -42,7 +60,7 @@
     "lat": 50.7169,
     "lng": 7.1265,
     "type": "youtube",
-    "url": "https://www.youtube.com/embed/live_stream?channel=UCbbS1GE942k3UVqpLklyhIA&autoplay=1"
+    "url": "https://www.youtube.com/embed/LuKwFajn37U?autoplay=1"
   },
   {
     "id": "yt-France24_en",
@@ -51,7 +69,16 @@
     "lat": 48.8285,
     "lng": 2.2709,
     "type": "youtube",
-    "url": "https://www.youtube.com/embed/live_stream?channel=UCCCPCZNChQdGa9EkATeye4g&autoplay=1"
+    "url": "https://www.youtube.com/embed/HvZt-nh9sGg?autoplay=1"
+  },
+  {
+    "id": "yt-euronews",
+    "name": "EuroNews",
+    "location": "Lyon, France",
+    "lat": 45.7428,
+    "lng": 4.8194,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/pykpO5kQJ98?autoplay=1"
   },
   {
     "id": "yt-trtworld",
@@ -60,7 +87,7 @@
     "lat": 41.036,
     "lng": 28.9835,
     "type": "youtube",
-    "url": "https://www.youtube.com/embed/live_stream?channel=UCnyCrv8b7bu0oWFXGyHaPzg&autoplay=1"
+    "url": "https://www.youtube.com/embed/b8lPrtjmnmw?autoplay=1"
   },
   {
     "id": "yt-TVPWorld",
@@ -69,7 +96,16 @@
     "lat": 52.237,
     "lng": 21.0122,
     "type": "youtube",
-    "url": "https://www.youtube.com/embed/live_stream?channel=UCNVES_wZlwwhCy0TABAAxwA&autoplay=1"
+    "url": "https://www.youtube.com/embed/tvXWIgsWuK0?autoplay=1"
+  },
+  {
+    "id": "yt-WION",
+    "name": "WION",
+    "location": "New Delhi, India",
+    "lat": 28.5447,
+    "lng": 77.323,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/J4QGczVr2Qw?autoplay=1"
   },
   {
     "id": "yt-AlJazeeraEnglish",
@@ -78,7 +114,16 @@
     "lat": 25.3155,
     "lng": 51.5218,
     "type": "youtube",
-    "url": "https://www.youtube.com/embed/live_stream?channel=UCfiwzLy-8yKzIbsmZTzxDgw&autoplay=1"
+    "url": "https://www.youtube.com/embed/gCNeDWCI0vo?autoplay=1"
+  },
+  {
+    "id": "yt-channelnewsasia",
+    "name": "CNA",
+    "location": "Singapore",
+    "lat": 1.2996,
+    "lng": 103.8456,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/XWq5kBlakcQ?autoplay=1"
   },
   {
     "id": "yt-ndtvindia",
@@ -87,7 +132,7 @@
     "lat": 28.5562,
     "lng": 77.2255,
     "type": "youtube",
-    "url": "https://www.youtube.com/embed/live_stream?channel=UCZFMm1mMw0F81Z37aaEzTUA&autoplay=1"
+    "url": "https://www.youtube.com/embed/MLDW7kmLtdg?autoplay=1"
   },
   {
     "id": "yt-aajtak",
@@ -96,7 +141,34 @@
     "lat": 28.5833,
     "lng": 77.3167,
     "type": "youtube",
-    "url": "https://www.youtube.com/embed/live_stream?channel=UCYPvAwZP8pZhSMW8qs7cVCw&autoplay=1"
+    "url": "https://www.youtube.com/embed/wAEBhbk5nB4?autoplay=1"
+  },
+  {
+    "id": "yt-indiatv",
+    "name": "India TV",
+    "location": "Noida, India",
+    "lat": 28.6258,
+    "lng": 77.3785,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/wgFTg-GaF3A?autoplay=1"
+  },
+  {
+    "id": "yt-ytnnews24",
+    "name": "YTN",
+    "location": "Seoul, South Korea",
+    "lat": 37.5791,
+    "lng": 126.8893,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/OsFMgFqX350?autoplay=1"
+  },
+  {
+    "id": "yt-TTV_NEWS",
+    "name": "TTV News",
+    "location": "Taipei, Taiwan",
+    "lat": 25.0487,
+    "lng": 121.5471,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/9iRAqBMakXY?autoplay=1"
   },
   {
     "id": "yt-FNNnewsCH",
@@ -105,7 +177,34 @@
     "lat": 35.6268,
     "lng": 139.7766,
     "type": "youtube",
-    "url": "https://www.youtube.com/embed/live_stream?channel=UC1ipzc08F-FjrZ5jIaZVPIw&autoplay=1"
+    "url": "https://www.youtube.com/embed/DN7l8QuMm40?autoplay=1"
+  },
+  {
+    "id": "yt-ANNnewsCH",
+    "name": "ANN",
+    "location": "Tokyo, Japan",
+    "lat": 35.6605,
+    "lng": 139.7292,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/Bp3Fx3p3q3Q?autoplay=1"
+  },
+  {
+    "id": "yt-gmanews",
+    "name": "GMA News",
+    "location": "Quezon City, Philippines",
+    "lat": 14.6341,
+    "lng": 121.0436,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/wLzsnolLvx8?autoplay=1"
+  },
+  {
+    "id": "yt-abscbnnews",
+    "name": "ABS-CBN News",
+    "location": "Quezon City, Philippines",
+    "lat": 14.6402,
+    "lng": 121.0371,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/gyXj_ipzd6U?autoplay=1"
   },
   {
     "id": "yt-ChannelsTelevision",
@@ -114,15 +213,6 @@
     "lat": 6.5684,
     "lng": 3.3644,
     "type": "youtube",
-    "url": "https://www.youtube.com/embed/live_stream?channel=UCfquiJA6_bKLo5m4CLqUphw&autoplay=1"
-  },
-  {
-    "id": "yt-7NEWS",
-    "name": "7NEWS Australia",
-    "location": "Sydney, Australia",
-    "lat": -33.8688,
-    "lng": 151.2093,
-    "type": "youtube",
-    "url": "https://www.youtube.com/embed/live_stream?channel=UCMRq9ADyETX-Touo4Srph5g&autoplay=1"
+    "url": "https://www.youtube.com/embed/d4zDorDl5UE?autoplay=1"
   }
 ]

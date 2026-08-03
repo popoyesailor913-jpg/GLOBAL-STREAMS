@@ -38,30 +38,34 @@ const newsChannels = [
     { handle: '@7NEWS', name: '7NEWS Australia', location: 'Sydney, Australia', lat: -33.8688, lng: 151.2093 }
 ];
 
-async function fetchChannelId(handle) {
+const { exec } = require('child_process');
+const util = require('util');
+const execPromise = util.promisify(exec);
+
+async function fetchVideoId(handle) {
     try {
-        const response = await fetch(`https://www.youtube.com/${handle}`);
-        const html = await response.text();
-        const match = html.match(/channelId":"(UC[a-zA-Z0-9_-]{22})"/);
-        if (match && match[1]) {
-            return match[1];
-        } else {
-            console.warn(`Could not find channel ID for ${handle}`);
-            return null;
+        const { stdout } = await execPromise(`.\\yt-dlp.exe --print id "https://www.youtube.com/${handle}/live"`);
+        const vid = stdout.trim();
+        // Ignore warnings that might get printed to stdout if any
+        const lines = vid.split('\n');
+        const exactId = lines[lines.length - 1].trim();
+        if (exactId && exactId.length === 11) {
+            return exactId;
         }
+        return null;
     } catch (err) {
-        console.error(`Error fetching ${handle}:`, err);
+        console.warn(`[OFFLINE] ${handle} is not currently live or failed to extract.`);
         return null;
     }
 }
 
 async function generate() {
-    console.log(`Fetching permanent channel IDs for ${newsChannels.length} news networks...`);
+    console.log(`Verifying liveness and extracting exact Video IDs for ${newsChannels.length} news networks...`);
     const streams = [];
 
     for (const channel of newsChannels) {
-        const cid = await fetchChannelId(channel.handle);
-        if (cid) {
+        const vid = await fetchVideoId(channel.handle);
+        if (vid) {
             streams.push({
                 id: `yt-${channel.handle.replace('@', '')}`,
                 name: channel.name,
@@ -69,18 +73,16 @@ async function generate() {
                 lat: channel.lat,
                 lng: channel.lng,
                 type: 'youtube',
-                url: `https://www.youtube.com/embed/live_stream?channel=${cid}&autoplay=1`
+                url: `https://www.youtube.com/embed/${vid}?autoplay=1`
             });
-            console.log(`[SUCCESS] ${channel.name} -> ${cid}`);
+            console.log(`[LIVE] ${channel.name} -> ${vid}`);
         } else {
-            console.log(`[FAILED] ${channel.name}`);
+            console.log(`[SKIPPED] ${channel.name}`);
         }
-        // Small delay to prevent rate-limiting from YouTube
-        await new Promise(r => setTimeout(r, 500));
     }
 
     fs.writeFileSync('streams.json', JSON.stringify(streams, null, 2));
-    console.log(`\nWrote ${streams.length} live news streams to streams.json!`);
+    console.log(`\nWrote ${streams.length} live verified news streams to streams.json!`);
 }
 
 generate();

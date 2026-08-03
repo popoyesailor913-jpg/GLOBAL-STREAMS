@@ -214,5 +214,266 @@
     "lng": 3.3644,
     "type": "youtube",
     "url": "https://www.youtube.com/embed/d4zDorDl5UE?autoplay=1"
+  },
+  {
+    "id": "yt-RepublicWorld",
+    "name": "Republic TV",
+    "location": "Mumbai, India",
+    "lat": 19.07,
+    "lng": 72.87,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/yCh6dQ7M7kA?autoplay=1"
+  },
+  {
+    "id": "yt-RepublicBharat",
+    "name": "Republic Bharat",
+    "location": "Mumbai, India",
+    "lat": 19.08,
+    "lng": 72.88,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/G5Nabeq3hos?autoplay=1"
+  },
+  {
+    "id": "yt-TimesNow",
+    "name": "Times Now",
+    "location": "Mumbai, India",
+    "lat": 19.06,
+    "lng": 72.86,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/KIZ8LSJOJoE?autoplay=1"
+  },
+  {
+    "id": "yt-cnnnews18",
+    "name": "CNN-News18",
+    "location": "Noida, India",
+    "lat": 28.58,
+    "lng": 77.32,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/yL062Fi7tHY?autoplay=1"
+  },
+  {
+    "id": "yt-indiatoday",
+    "name": "India Today",
+    "location": "Noida, India",
+    "lat": 28.59,
+    "lng": 77.33,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/wxADVztntcM?autoplay=1"
+  },
+  {
+    "id": "yt-News18India",
+    "name": "News18 India",
+    "location": "Noida, India",
+    "lat": 28.57,
+    "lng": 77.31,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/fLO3oK1ie-8?autoplay=1"
+  },
+  {
+    "id": "yt-zeenews",
+    "name": "Zee News",
+    "location": "Noida, India",
+    "lat": 28.6,
+    "lng": 77.34,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/c-LMiWvwbkY?autoplay=1"
+  },
+  {
+    "id": "yt-abpnews",
+    "name": "ABP News",
+    "location": "Noida, India",
+    "lat": 28.56,
+    "lng": 77.3,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/YeQs_JddJDU?autoplay=1"
+  },
+  {
+    "id": "yt-ndtv",
+    "name": "NDTV 24x7",
+    "location": "New Delhi, India",
+    "lat": 28.55,
+    "lng": 77.24,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/0uRlhy7JVAw?autoplay=1"
+  },
+  {
+    "id": "yt-TV9Bharatvarsh",
+    "name": "TV9 Bharatvarsh",
+    "location": "Noida, India",
+    "lat": 28.61,
+    "lng": 77.35,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/2h6Hfxs3Fa0?autoplay=1"
+  },
+  {
+    "id": "yt-tv9telugulive",
+    "name": "TV9 Telugu",
+    "location": "Hyderabad, India",
+    "lat": 17.38,
+    "lng": 78.48,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/yfehgRCYC7Q?autoplay=1"
+  },
+  {
+    "id": "yt-V6NewsTelugu",
+    "name": "V6 News",
+    "location": "Hyderabad, India",
+    "lat": 17.4,
+    "lng": 78.47,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/28IZl9iM-EE?autoplay=1"
+  },
+  {
+    "id": "yt-abntelugutv",
+    "name": "ABN Andhrajyothy",
+    "location": "Hyderabad, India",
+    "lat": 17.41,
+    "lng": 78.5,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/pKt38FHedyk?autoplay=1"
+  },
+  {
+    "id": "yt-ThanthiTV",
+    "name": "Thanthi TV",
+    "location": "Chennai, India",
+    "lat": 13.09,
+    "lng": 80.28,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/_Lg0IUxUMi0?autoplay=1"
+  },
+  {
+    "id": "yt-News18TamilNadu",
+    "name": "News18 Tamil Nadu",
+    "location": "Chennai, India",
+    "lat": 13.07,
+    "lng": 80.26,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/d7bKSbVr9qw?autoplay=1"
+  },
+  {
+    "id": "yt-polimernews",
+    "name": "Polimer News",
+    "location": "Chennai, India",
+    "lat": 13.1,
+    "lng": 80.29,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/L9DRatNePFY?autoplay=1"
+  },
+  {
+    "id": "yt-SunNewsTamil",
+    "name": "Sun News",
+    "location": "Chennai, India",
+    "lat": 13.06,
+    "lng": 80.25,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/9M02G5c6x6w?autoplay=1"
+  },
+  {
+    "id": "yt-asianetnews",
+    "name": "Asianet News",
+    "location": "Trivandrum, India",
+    "lat": 8.52,
+    "lng": 76.93,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/s0LLVQeMmtU?autoplay=1"
+  },
+  {
+    "id": "yt-manoramanews",
+    "name": "Manorama News",
+    "location": "Kochi, India",
+    "lat": 9.94,
+    "lng": 76.27,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/Oh5rAeVWnww?autoplay=1"
+  },
+  {
+    "id": "yt-AsianetSuvarnaNews",
+    "name": "Suvarna News",
+    "location": "Bangalore, India",
+    "lat": 12.96,
+    "lng": 77.58,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/8__b9rYAQ_E?autoplay=1"
+  },
+  {
+    "id": "yt-News18Kannada",
+    "name": "News18 Kannada",
+    "location": "Bangalore, India",
+    "lat": 12.99,
+    "lng": 77.61,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/cbspYdPHsNQ?autoplay=1"
+  },
+  {
+    "id": "yt-abpanandatv",
+    "name": "ABP Ananda",
+    "location": "Kolkata, India",
+    "lat": 22.57,
+    "lng": 88.36,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/_QVLLYecm6Q?autoplay=1"
+  },
+  {
+    "id": "yt-Zee24Ghanta",
+    "name": "Zee 24 Ghanta",
+    "location": "Kolkata, India",
+    "lat": 22.56,
+    "lng": 88.35,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/KjXUmN-yci4?autoplay=1"
+  },
+  {
+    "id": "yt-abpmajhatv",
+    "name": "ABP Majha",
+    "location": "Mumbai, India",
+    "lat": 19.05,
+    "lng": 72.85,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/vyqWOJ8Ss1M?autoplay=1"
+  },
+  {
+    "id": "yt-Zee24Taas",
+    "name": "Zee 24 Taas",
+    "location": "Mumbai, India",
+    "lat": 19.04,
+    "lng": 72.84,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/63lswdJiM3M?autoplay=1"
+  },
+  {
+    "id": "yt-tv9marathilive",
+    "name": "TV9 Marathi",
+    "location": "Mumbai, India",
+    "lat": 19.03,
+    "lng": 72.83,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/o4PM2g1o53w?autoplay=1"
+  },
+  {
+    "id": "yt-abpasmitatv",
+    "name": "ABP Asmita",
+    "location": "Ahmedabad, India",
+    "lat": 23.02,
+    "lng": 72.57,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/-VEUDOysnaQ?autoplay=1"
+  },
+  {
+    "id": "yt-SandeshNewsTV",
+    "name": "Sandesh News",
+    "location": "Ahmedabad, India",
+    "lat": 23.01,
+    "lng": 72.56,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/ckLplJsmWVU?autoplay=1"
+  },
+  {
+    "id": "yt-ptcnews",
+    "name": "PTC News",
+    "location": "Chandigarh, India",
+    "lat": 30.73,
+    "lng": 76.77,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/YWzIp5rLblM?autoplay=1"
   }
 ]

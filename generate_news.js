@@ -35,7 +35,71 @@ const newsChannels = [
     { handle: '@ChannelsTelevision', name: 'Channels Television', location: 'Lagos, Nigeria', lat: 6.5684, lng: 3.3644 },
     { handle: '@ktnnews', name: 'KTN News', location: 'Nairobi, Kenya', lat: -1.3093, lng: 36.8225 },
     { handle: '@NewsOnABC', name: 'ABC News Australia', location: 'Sydney, Australia', lat: -33.8808, lng: 151.1994 },
-    { handle: '@7NEWS', name: '7NEWS Australia', location: 'Sydney, Australia', lat: -33.8688, lng: 151.2093 }
+    { handle: '@7NEWS', name: '7NEWS Australia', location: 'Sydney, Australia', lat: -33.8688, lng: 151.2093 },
+
+    // INDIA - NATIONAL (Delhi/Noida)
+    { handle: '@RepublicWorld', name: 'Republic TV', location: 'Mumbai, India', lat: 19.0700, lng: 72.8700 },
+    { handle: '@RepublicBharat', name: 'Republic Bharat', location: 'Mumbai, India', lat: 19.0800, lng: 72.8800 },
+    { handle: '@TimesNow', name: 'Times Now', location: 'Mumbai, India', lat: 19.0600, lng: 72.8600 },
+    { handle: '@cnnnews18', name: 'CNN-News18', location: 'Noida, India', lat: 28.5800, lng: 77.3200 },
+    { handle: '@indiatoday', name: 'India Today', location: 'Noida, India', lat: 28.5900, lng: 77.3300 },
+    { handle: '@News18India', name: 'News18 India', location: 'Noida, India', lat: 28.5700, lng: 77.3100 },
+    { handle: '@zeenews', name: 'Zee News', location: 'Noida, India', lat: 28.6000, lng: 77.3400 },
+    { handle: '@abpnews', name: 'ABP News', location: 'Noida, India', lat: 28.5600, lng: 77.3000 },
+    { handle: '@ndtv', name: 'NDTV 24x7', location: 'New Delhi, India', lat: 28.5500, lng: 77.2400 },
+    { handle: '@DDNewsOfficial', name: 'DD News', location: 'New Delhi, India', lat: 28.5650, lng: 77.2300 },
+    { handle: '@TV9Bharatvarsh', name: 'TV9 Bharatvarsh', location: 'Noida, India', lat: 28.6100, lng: 77.3500 },
+
+    // INDIA - SOUTH
+    // Telugu (Hyderabad)
+    { handle: '@tv9telugulive', name: 'TV9 Telugu', location: 'Hyderabad, India', lat: 17.3800, lng: 78.4800 },
+    { handle: '@NtvTeluguLive', name: 'NTV Telugu', location: 'Hyderabad, India', lat: 17.3900, lng: 78.4900 },
+    { handle: '@V6NewsTelugu', name: 'V6 News', location: 'Hyderabad, India', lat: 17.4000, lng: 78.4700 },
+    { handle: '@TNewsTelugu', name: 'T News', location: 'Hyderabad, India', lat: 17.3700, lng: 78.4600 },
+    { handle: '@abntelugutv', name: 'ABN Andhrajyothy', location: 'Hyderabad, India', lat: 17.4100, lng: 78.5000 },
+    
+    // Tamil (Chennai)
+    { handle: '@PuthiyaThalaimuraiTV', name: 'Puthiya Thalaimurai', location: 'Chennai, India', lat: 13.0800, lng: 80.2700 },
+    { handle: '@ThanthiTV', name: 'Thanthi TV', location: 'Chennai, India', lat: 13.0900, lng: 80.2800 },
+    { handle: '@News18TamilNadu', name: 'News18 Tamil Nadu', location: 'Chennai, India', lat: 13.0700, lng: 80.2600 },
+    { handle: '@polimernews', name: 'Polimer News', location: 'Chennai, India', lat: 13.1000, lng: 80.2900 },
+    { handle: '@SunNewsTamil', name: 'Sun News', location: 'Chennai, India', lat: 13.0600, lng: 80.2500 },
+
+    // Malayalam (Kerala)
+    { handle: '@asianetnews', name: 'Asianet News', location: 'Trivandrum, India', lat: 8.5200, lng: 76.9300 },
+    { handle: '@24News', name: '24 News', location: 'Kochi, India', lat: 9.9300, lng: 76.2600 },
+    { handle: '@mathrubhuminewstv', name: 'Mathrubhumi News', location: 'Trivandrum, India', lat: 8.5300, lng: 76.9400 },
+    { handle: '@manoramanews', name: 'Manorama News', location: 'Kochi, India', lat: 9.9400, lng: 76.2700 },
+
+    // Kannada (Bangalore)
+    { handle: '@tv9kannadanews', name: 'TV9 Kannada', location: 'Bangalore, India', lat: 12.9700, lng: 77.5900 },
+    { handle: '@PublicTV', name: 'Public TV', location: 'Bangalore, India', lat: 12.9800, lng: 77.6000 },
+    { handle: '@AsianetSuvarnaNews', name: 'Suvarna News', location: 'Bangalore, India', lat: 12.9600, lng: 77.5800 },
+    { handle: '@News18Kannada', name: 'News18 Kannada', location: 'Bangalore, India', lat: 12.9900, lng: 77.6100 },
+
+    // INDIA - EAST & WEST
+    // Bengali (Kolkata)
+    { handle: '@abpanandatv', name: 'ABP Ananda', location: 'Kolkata, India', lat: 22.5700, lng: 88.3600 },
+    { handle: '@News18Bengali', name: 'News18 Bengali', location: 'Kolkata, India', lat: 22.5800, lng: 88.3700 },
+    { handle: '@Zee24Ghanta', name: 'Zee 24 Ghanta', location: 'Kolkata, India', lat: 22.5600, lng: 88.3500 },
+
+    // Marathi (Mumbai)
+    { handle: '@abpmajhatv', name: 'ABP Majha', location: 'Mumbai, India', lat: 19.0500, lng: 72.8500 },
+    { handle: '@Zee24Taas', name: 'Zee 24 Taas', location: 'Mumbai, India', lat: 19.0400, lng: 72.8400 },
+    { handle: '@tv9marathilive', name: 'TV9 Marathi', location: 'Mumbai, India', lat: 19.0300, lng: 72.8300 },
+    { handle: '@News18Lokmat', name: 'News18 Lokmat', location: 'Mumbai, India', lat: 19.0200, lng: 72.8200 },
+
+    // Gujarati (Ahmedabad)
+    { handle: '@abpasmitatv', name: 'ABP Asmita', location: 'Ahmedabad, India', lat: 23.0200, lng: 72.5700 },
+    { handle: '@tv9gujaratilive', name: 'TV9 Gujarati', location: 'Ahmedabad, India', lat: 23.0300, lng: 72.5800 },
+    { handle: '@SandeshNewsTV', name: 'Sandesh News', location: 'Ahmedabad, India', lat: 23.0100, lng: 72.5600 },
+    { handle: '@vtvgujarati', name: 'VTV Gujarati', location: 'Ahmedabad, India', lat: 23.0400, lng: 72.5900 },
+
+    // Odia & Punjabi
+    { handle: '@otvnews', name: 'OTV', location: 'Bhubaneswar, India', lat: 20.2900, lng: 85.8200 },
+    { handle: '@kanaknewsofficial', name: 'Kanak News', location: 'Bhubaneswar, India', lat: 20.3000, lng: 85.8300 },
+    { handle: '@ptcnews', name: 'PTC News', location: 'Chandigarh, India', lat: 30.7300, lng: 76.7700 },
+    { handle: '@News18Punjab', name: 'News18 Punjab', location: 'Chandigarh, India', lat: 30.7400, lng: 76.7800 }
 ];
 
 const { exec } = require('child_process');

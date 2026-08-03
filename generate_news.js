@@ -618,6 +618,440 @@ const newsChannels = [
         lat: 30.74,
         lng: 76.78,
         channelId: 'UCkd9UmlHSq9Em8ErY9Tu3eQ'
+    },
+    {
+        handle: '@todonoticias',
+        name: 'TN',
+        location: 'Buenos Aires, Argentina',
+        lat: -34.6037,
+        lng: -58.3816,
+        channelId: 'UCj6PcyLvpnIRT_2W_mwa9Aw'
+    },
+    {
+        handle: '@c5n',
+        name: 'C5N',
+        location: 'Buenos Aires, Argentina',
+        lat: -34.5815,
+        lng: -58.4316,
+        channelId: 'UCFgk2Q2mVO1BklRQhSv6p0w'
+    },
+    {
+        handle: '@lanacion',
+        name: 'La Nacion',
+        location: 'Buenos Aires, Argentina',
+        lat: -34.6131,
+        lng: -58.3772,
+        channelId: 'UCba3hpU7EFBSk817y9qZkiA'
+    },
+    {
+        handle: '@jovempannews',
+        name: 'Jovem Pan News',
+        location: 'São Paulo, Brazil',
+        lat: -23.5505,
+        lng: -46.6333,
+        channelId: 'UCP391YRAjSOdM_bwievgaZA'
+    },
+    {
+        handle: '@recordnews',
+        name: 'Record News',
+        location: 'São Paulo, Brazil',
+        lat: -23.5337,
+        lng: -46.6252,
+        channelId: 'UCuiLR4p6wQ3xLEm15pEn1Xw'
+    },
+    {
+        handle: '@bandjornalismo',
+        name: 'Band Jornalismo',
+        location: 'São Paulo, Brazil',
+        lat: -23.5677,
+        lng: -46.6488,
+        channelId: 'UCoa-D_VfMkFrCYodrOC9-mA'
+    },
+    {
+        handle: '@Milenio',
+        name: 'Milenio',
+        location: 'Mexico City, Mexico',
+        lat: 19.4326,
+        lng: -99.1332,
+        channelId: 'UCFxHplbcoJK9m70c4VyTIxg'
+    },
+    {
+        handle: '@nmas',
+        name: 'N+',
+        location: 'Mexico City, Mexico',
+        lat: 19.426,
+        lng: -99.1506,
+        channelId: 'UCUsm-fannqOY02PNN67C0KA'
+    },
+    {
+        handle: '@telediariomx',
+        name: 'Telediario',
+        location: 'Mexico City, Mexico',
+        lat: 19.435,
+        lng: -99.145,
+        channelId: 'UCKuAmo9OGf8kw2jrPWCpHdA'
+    },
+    {
+        handle: '@noticiascaracol',
+        name: 'Noticias Caracol',
+        location: 'Bogotá, Colombia',
+        lat: 4.711,
+        lng: -74.0721,
+        channelId: 'UC2Xq2PK-got3Rtz9ZJ32hLQ'
+    },
+    {
+        handle: '@meganoticiascl',
+        name: 'Mega',
+        location: 'Santiago, Chile',
+        lat: -33.4489,
+        lng: -70.6693
+    },
+    {
+        handle: '@teletrece',
+        name: 'T13',
+        location: 'Santiago, Chile',
+        lat: -33.4569,
+        lng: -70.6483,
+        channelId: 'UCPClE65B0W8cc82dytDKIrw'
+    },
+    {
+        handle: '@24horascl',
+        name: '24 Horas',
+        location: 'Santiago, Chile',
+        lat: -33.4372,
+        lng: -70.6506
+    },
+    {
+        handle: '@atvmasnoticias',
+        name: 'ATV Noticias',
+        location: 'Lima, Peru',
+        lat: -12.0464,
+        lng: -77.0428
+    },
+    {
+        handle: '@rainews24',
+        name: 'Rai News 24',
+        location: 'Rome, Italy',
+        lat: 41.9028,
+        lng: 12.4964
+    },
+    {
+        handle: '@tgcom24',
+        name: 'TGCOM24',
+        location: 'Milan, Italy',
+        lat: 45.4642,
+        lng: 9.19,
+        channelId: 'UCmoMxFxfjHJIicCv1eV_tSA'
+    },
+    {
+        handle: '@SkyTG24',
+        name: 'Sky TG24',
+        location: 'Milan, Italy',
+        lat: 45.4385,
+        lng: 9.2778,
+        channelId: 'UCz6E3lF72mb6uoJ-mOlNo2A'
+    },
+    {
+        handle: '@rtvenoticias',
+        name: 'RTVE Noticias',
+        location: 'Madrid, Spain',
+        lat: 40.4168,
+        lng: -3.7038,
+        channelId: 'UC7QZIf0dta-XPXsp9Hv4dTw'
+    },
+    {
+        handle: '@welt',
+        name: 'WELT',
+        location: 'Berlin, Germany',
+        lat: 52.52,
+        lng: 13.405,
+        channelId: 'UCYLksysPyWbObO2GKlqtKpA'
+    },
+    {
+        handle: '@ntvNachrichten',
+        name: 'NTV Germany',
+        location: 'Cologne, Germany',
+        lat: 50.9375,
+        lng: 6.9603
+    },
+    {
+        handle: '@bfmtv',
+        name: 'BFM TV',
+        location: 'Paris, France',
+        lat: 48.8566,
+        lng: 2.3522,
+        channelId: 'UCXwDLMDV86ldKoFVc_g8P0g'
+    },
+    {
+        handle: '@cnews',
+        name: 'CNEWS',
+        location: 'Paris, France',
+        lat: 48.8251,
+        lng: 2.2741,
+        channelId: 'UCciBAhIME9MQEmGbBPnh44g'
+    },
+    {
+        handle: '@lci',
+        name: 'LCI',
+        location: 'Paris, France',
+        lat: 48.8354,
+        lng: 2.2599,
+        channelId: 'UCewhc0fvja891XkpIPGRMxQ'
+    },
+    {
+        handle: '@sicnoticias',
+        name: 'SIC Notícias',
+        location: 'Lisbon, Portugal',
+        lat: 38.7223,
+        lng: -9.1393
+    },
+    {
+        handle: '@tvn24',
+        name: 'TVN24',
+        location: 'Warsaw, Poland',
+        lat: 52.1908,
+        lng: 21.0264,
+        channelId: 'UC3R8278fJUWn2ysrOCJrmAQ'
+    },
+    {
+        handle: '@digi24',
+        name: 'Digi24',
+        location: 'Bucharest, Romania',
+        lat: 44.4268,
+        lng: 26.1025
+    },
+    {
+        handle: '@antena3romania',
+        name: 'Antena 3 CNN',
+        location: 'Bucharest, Romania',
+        lat: 44.4533,
+        lng: 26.0687
+    },
+    {
+        handle: '@GBNewsOnline',
+        name: 'GB News',
+        location: 'London, UK',
+        lat: 51.5072,
+        lng: -0.1276,
+        channelId: 'UC0vn8ISa4LKMunLbzaXLnOQ'
+    },
+    {
+        handle: '@AlArabiya',
+        name: 'Al Arabiya',
+        location: 'Dubai, UAE',
+        lat: 25.2048,
+        lng: 55.2708,
+        channelId: 'UCahpxixMCwoANAftn6IxkTg'
+    },
+    {
+        handle: '@SkyNewsArabia',
+        name: 'Sky News Arabia',
+        location: 'Abu Dhabi, UAE',
+        lat: 24.4539,
+        lng: 54.3773,
+        channelId: 'UCIJXOvggjKtCagMfxvcCzAA'
+    },
+    {
+        handle: '@alhadath',
+        name: 'Al Hadath',
+        location: 'Dubai, UAE',
+        lat: 25.0743,
+        lng: 55.1396,
+        channelId: 'UCrj5BGAhtWxDfqbza9T9hqA'
+    },
+    {
+        handle: '@alekhbariyaTV',
+        name: 'Al Ekhbariya',
+        location: 'Riyadh, Saudi Arabia',
+        lat: 24.7136,
+        lng: 46.6753,
+        channelId: 'UCcmHPJzsho2Hr4AhNO6m09w'
+    },
+    {
+        handle: '@i24NEWS_EN',
+        name: 'I24 News English',
+        location: 'Tel Aviv, Israel',
+        lat: 32.0853,
+        lng: 34.7818,
+        channelId: 'UCvHDpsWKADrDia0c99X37vg'
+    },
+    {
+        handle: '@News24Video',
+        name: 'News24',
+        location: 'Cape Town, South Africa',
+        lat: -33.9249,
+        lng: 18.4241,
+        channelId: 'UC_vRepQuzI527GtEP1pGYZw'
+    },
+    {
+        handle: '@encanews',
+        name: 'eNCA',
+        location: 'Johannesburg, South Africa',
+        lat: -26.126,
+        lng: 28.0267,
+        channelId: 'UCI3RT5PGmdi1KVp9FG_CneA'
+    },
+    {
+        handle: '@NewzroomAfrika',
+        name: 'Newzroom Afrika',
+        location: 'Randburg, South Africa',
+        lat: -26.0967,
+        lng: 28.0016
+    },
+    {
+        handle: '@citizentvkenya',
+        name: 'Citizen TV',
+        location: 'Nairobi, Kenya',
+        lat: -1.2921,
+        lng: 36.8219,
+        channelId: 'UClLuu9p9zMmE4TDg8s2E2cQ'
+    },
+    {
+        handle: '@ntvkenya',
+        name: 'NTV Kenya',
+        location: 'Nairobi, Kenya',
+        lat: -1.2833,
+        lng: 36.8167
+    },
+    {
+        handle: '@ARISE_News',
+        name: 'Arise News',
+        location: 'Lagos, Nigeria',
+        lat: 6.4281,
+        lng: 3.4219
+    },
+    {
+        handle: '@TVCNewsNigeria',
+        name: 'TVC News',
+        location: 'Lagos, Nigeria',
+        lat: 6.6018,
+        lng: 3.3515,
+        channelId: 'UCgp4A6I8LCWrhUzn-5SbKvA'
+    },
+    {
+        handle: '@JoyNewsOnTV',
+        name: 'JoyNews',
+        location: 'Accra, Ghana',
+        lat: 5.6037,
+        lng: -0.187
+    },
+    {
+        handle: '@kompastv',
+        name: 'Kompas TV',
+        location: 'Jakarta, Indonesia',
+        lat: -6.2088,
+        lng: 106.8456,
+        channelId: 'UC5BMIWZe9isJXLZZWPWvBlg'
+    },
+    {
+        handle: '@metrotvnews',
+        name: 'Metro TV',
+        location: 'Jakarta, Indonesia',
+        lat: -6.195,
+        lng: 106.7648,
+        channelId: 'UCzl0OrB3-ehunyotIQvK77A'
+    },
+    {
+        handle: '@tvOneNews',
+        name: 'tvOneNews',
+        location: 'Jakarta, Indonesia',
+        lat: -6.2,
+        lng: 106.85,
+        channelId: 'UCER4rvDnRBPr_ncYW4UCZjg'
+    },
+    {
+        handle: '@ThaiPBS',
+        name: 'ThaiPBS',
+        location: 'Bangkok, Thailand',
+        lat: 13.8732,
+        lng: 100.5746,
+        channelId: 'UC5TOFhyb_LxL2VG_Zenhpzw'
+    },
+    {
+        handle: '@AMARINTVHD',
+        name: 'Amarin TV',
+        location: 'Bangkok, Thailand',
+        lat: 13.7845,
+        lng: 100.4789,
+        channelId: 'UCzMoibQRslh_1bTuW0YXc6A'
+    },
+    {
+        handle: '@vtv24',
+        name: 'VTV24',
+        location: 'Hanoi, Vietnam',
+        lat: 21.0285,
+        lng: 105.8542,
+        channelId: 'UCabsTV34JwALXKGMqHpvUiA'
+    },
+    {
+        handle: '@tvbsnews',
+        name: 'TVBS',
+        location: 'Taipei, Taiwan',
+        lat: 25.0792,
+        lng: 121.5714,
+        channelId: 'UCIicAlXlv874Rp9LVfGOJfA'
+    },
+    {
+        handle: '@ebcnews',
+        name: 'EBC News',
+        location: 'Taipei, Taiwan',
+        lat: 25.0487,
+        lng: 121.5152
+    },
+    {
+        handle: '@ctvnews',
+        name: 'CTV News',
+        location: 'Taipei, Taiwan',
+        lat: 25.0531,
+        lng: 121.6033,
+        channelId: 'UCi7Zk9baY1tvdlgxIML8MXg'
+    },
+    {
+        handle: '@KBS_news',
+        name: 'KBS News',
+        location: 'Seoul, South Korea',
+        lat: 37.5255,
+        lng: 126.9174,
+        channelId: 'UCSj5kxjpe_rDl0U21HDHjCQ'
+    },
+    {
+        handle: '@MBCNEWS11',
+        name: 'MBC News',
+        location: 'Seoul, South Korea',
+        lat: 37.5804,
+        lng: 126.8906,
+        channelId: 'UCF4Wxdo3inmxP-Y59wXDsFw'
+    },
+    {
+        handle: '@sbsnews8',
+        name: 'SBS News',
+        location: 'Seoul, South Korea',
+        lat: 37.5298,
+        lng: 126.8736,
+        channelId: 'UCkinYTS9IHqOEwR1Sze2JTw'
+    },
+    {
+        handle: '@9News',
+        name: '9News',
+        location: 'Sydney, Australia',
+        lat: -33.8202,
+        lng: 151.2014,
+        channelId: 'UC72nbKQLSDyiSARhg0Ywj4w'
+    },
+    {
+        handle: '@SkyNewsAustralia',
+        name: 'Sky News Australia',
+        location: 'Sydney, Australia',
+        lat: -33.8052,
+        lng: 151.1913
+    },
+    {
+        handle: '@1NewsNZ',
+        name: '1News',
+        location: 'Auckland, New Zealand',
+        lat: -36.8485,
+        lng: 174.7633,
+        channelId: 'UCxPAYgO8OpFev3PUTKbsxNw'
     }
 ];
 

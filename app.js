@@ -98,8 +98,6 @@ document.addEventListener('DOMContentLoaded', () => {
             // Fly to location
             map.flyTo({
                 center: [stream.lng, stream.lat],
-                zoom: 5,
-                pitch: 60,
                 duration: 2000,
                 essential: true 
             });
@@ -195,11 +193,10 @@ document.addEventListener('DOMContentLoaded', () => {
             mjpegImg.src = '';
         }, 300);
         
-        // Zoom back out to global view
+        // Return to flat view without zooming out
         map.flyTo({
-            zoom: 1.5,
-            pitch: 45,
-            duration: 2000,
+            pitch: 0,
+            duration: 1000,
             essential: true
         });
     }

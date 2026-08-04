@@ -1052,6 +1052,584 @@ const newsChannels = [
         lat: -36.8485,
         lng: 174.7633,
         channelId: 'UCxPAYgO8OpFev3PUTKbsxNw'
+    },
+    {
+        handle: '@ScrippsNews',
+        name: 'Scripps News',
+        location: 'Atlanta, USA',
+        lat: 33.749,
+        lng: -84.388,
+        channelId: 'UCTln5ss6h6L_xNfMeujfPbg'
+    },
+    {
+        handle: '@WUSA9',
+        name: 'WUSA9',
+        location: 'Washington DC, USA',
+        lat: 38.9072,
+        lng: -77.0369
+    },
+    {
+        handle: '@KARE11',
+        name: 'KARE11',
+        location: 'Minneapolis, USA',
+        lat: 44.9778,
+        lng: -93.265,
+        channelId: 'UC1JAwKeDUjN2orv5t7LWODQ'
+    },
+    {
+        handle: '@KHOU11',
+        name: 'KHOU11',
+        location: 'Houston, USA',
+        lat: 29.7604,
+        lng: -95.3698
+    },
+    {
+        handle: '@WFAA',
+        name: 'WFAA',
+        location: 'Dallas, USA',
+        lat: 32.7767,
+        lng: -96.797
+    },
+    {
+        handle: '@fox5ny',
+        name: 'FOX 5 NY',
+        location: 'New York, USA',
+        lat: 40.758,
+        lng: -73.9855,
+        channelId: 'UCIjSUWHWp6KohfnR5OQTXnQ'
+    },
+    {
+        handle: '@fox11la',
+        name: 'FOX 11 LA',
+        location: 'Los Angeles, USA',
+        lat: 34.0522,
+        lng: -118.2437
+    },
+    {
+        handle: '@FOX32Chicago',
+        name: 'FOX 32 Chicago',
+        location: 'Chicago, USA',
+        lat: 41.8781,
+        lng: -87.6298,
+        channelId: 'UCFmofUYwZd1Ibf_O3PF71jg'
+    },
+    {
+        handle: '@FOX5DC',
+        name: 'FOX 5 DC',
+        location: 'Washington DC, USA',
+        lat: 38.9,
+        lng: -77.03,
+        channelId: 'UCHLyP4MuA-JAFBCwxXOEDdA'
+    },
+    {
+        handle: '@abc7NY',
+        name: 'ABC7 NY',
+        location: 'New York, USA',
+        lat: 40.76,
+        lng: -73.98,
+        channelId: 'UCrlIS7z20CnVaCrMvdkig_g'
+    },
+    {
+        handle: '@abc7LA',
+        name: 'ABC7 LA',
+        location: 'Los Angeles, USA',
+        lat: 34.06,
+        lng: -118.25,
+        channelId: 'UCcnHTNcSFhZV6qIySLYwnvw'
+    },
+    {
+        handle: '@abc7Chicago',
+        name: 'ABC7 Chicago',
+        location: 'Chicago, USA',
+        lat: 41.88,
+        lng: -87.63,
+        channelId: 'UC_vFLohxs5PkAxlk7Y6jEtw'
+    },
+    {
+        handle: '@6abc',
+        name: '6abc Philadelphia',
+        location: 'Philadelphia, USA',
+        lat: 39.9526,
+        lng: -75.1652,
+        channelId: 'UC-rOgnTonRr4MQkrjq3nLnw'
+    },
+    {
+        handle: '@abc13houston',
+        name: 'ABC13 Houston',
+        location: 'Houston, USA',
+        lat: 29.765,
+        lng: -95.37,
+        channelId: 'UCDmNmxF3ZVMeGyvWE9tOqPQ'
+    },
+    {
+        handle: '@CBSNewYork',
+        name: 'CBS New York',
+        location: 'New York, USA',
+        lat: 40.755,
+        lng: -73.99,
+        channelId: 'UCNZyLULUQBp5e9Q1cKtvk6Q'
+    },
+    {
+        handle: '@CBSLosAngeles',
+        name: 'CBS Los Angeles',
+        location: 'Los Angeles, USA',
+        lat: 34.05,
+        lng: -118.24,
+        channelId: 'UCY3-NVKDMeuBe_0A8A_LpFw'
+    },
+    {
+        handle: '@CBSChicago',
+        name: 'CBS Chicago',
+        location: 'Chicago, USA',
+        lat: 41.875,
+        lng: -87.635,
+        channelId: 'UCkBS_xU1WQ7FVsDoQ_OPeDg'
+    },
+    {
+        handle: '@nbcnewyork',
+        name: 'NBC New York',
+        location: 'New York, USA',
+        lat: 40.75,
+        lng: -73.97,
+        channelId: 'UCxCfoSInadl-4i3F70zDt1A'
+    },
+    {
+        handle: '@nbcla',
+        name: 'NBC LA',
+        location: 'Los Angeles, USA',
+        lat: 34.04,
+        lng: -118.23,
+        channelId: 'UCSWoppsVL0TLxFQ2qP_DLqQ'
+    },
+    {
+        handle: '@Channel4News',
+        name: 'Channel 4 News',
+        location: 'London, UK',
+        lat: 51.515,
+        lng: -0.13,
+        channelId: 'UCTrQ7HXWRRxr7OsOtodr2_w'
+    },
+    {
+        handle: '@LBC',
+        name: 'LBC',
+        location: 'London, UK',
+        lat: 51.51,
+        lng: -0.125,
+        channelId: 'UCGEIZdGkIYeU6FUwvkjCrIw'
+    },
+    {
+        handle: '@TimesRadio',
+        name: 'Times Radio',
+        location: 'London, UK',
+        lat: 51.505,
+        lng: -0.12
+    },
+    {
+        handle: '@a24',
+        name: 'A24',
+        location: 'Buenos Aires, Argentina',
+        lat: -34.61,
+        lng: -58.38,
+        channelId: 'UCuPivVjnfNo4mb3Oog_frZg'
+    },
+    {
+        handle: '@Canal26',
+        name: 'Canal 26',
+        location: 'Buenos Aires, Argentina',
+        lat: -34.605,
+        lng: -58.385,
+        channelId: 'UCrpMfcQNog595v5gAS-oUsQ'
+    },
+    {
+        handle: '@cronicatv',
+        name: 'Crónica TV',
+        location: 'Buenos Aires, Argentina',
+        lat: -34.615,
+        lng: -58.375,
+        channelId: 'UCT7KFGv6s2a-rh2Jq8ZdM1g'
+    },
+    {
+        handle: '@sbtnews',
+        name: 'SBT News',
+        location: 'São Paulo, Brazil',
+        lat: -23.555,
+        lng: -46.64,
+        channelId: 'UC376n347Ob5Lwzq2WGzF1AA'
+    },
+    {
+        handle: '@cnnbrasil',
+        name: 'CNN Brasil',
+        location: 'São Paulo, Brazil',
+        lat: -23.56,
+        lng: -46.65,
+        channelId: 'UCvdwhh_fDyWccR42-rReZLw'
+    },
+    {
+        handle: '@forotv',
+        name: 'Foro TV',
+        location: 'Mexico City, Mexico',
+        lat: 19.42,
+        lng: -99.14,
+        channelId: 'UCj2jmbc1YrbYRudlRAe68uw'
+    },
+    {
+        handle: '@adn40mx',
+        name: 'ADN 40',
+        location: 'Mexico City, Mexico',
+        lat: 19.425,
+        lng: -99.145
+    },
+    {
+        handle: '@imagentv',
+        name: 'Imagen Noticias',
+        location: 'Mexico City, Mexico',
+        lat: 19.43,
+        lng: -99.135,
+        channelId: 'UCl5JKSQsl-_WSU1rz7_BCJA'
+    },
+    {
+        handle: '@RPPNoticias',
+        name: 'RPP Noticias',
+        location: 'Lima, Peru',
+        lat: -12.05,
+        lng: -77.04,
+        channelId: 'UC5j8-2FT0ZMMBkmK72R4aeA'
+    },
+    {
+        handle: '@canaln',
+        name: 'Canal N',
+        location: 'Lima, Peru',
+        lat: -12.055,
+        lng: -77.035
+    },
+    {
+        handle: '@latinanoticias',
+        name: 'Latina Noticias',
+        location: 'Lima, Peru',
+        lat: -12.06,
+        lng: -77.03,
+        channelId: 'UCpSJ5fGhmAME9Kx2D3ZvN3Q'
+    },
+    {
+        handle: '@ecuavisa',
+        name: 'Ecuavisa',
+        location: 'Guayaquil, Ecuador',
+        lat: -2.1894,
+        lng: -79.8891,
+        channelId: 'UCRUV3nUNSc-xpBrTwQOCQQg'
+    },
+    {
+        handle: '@teleamazonasec',
+        name: 'Teleamazonas',
+        location: 'Quito, Ecuador',
+        lat: -0.1807,
+        lng: -78.4678
+    },
+    {
+        handle: '@franceinfo',
+        name: 'France Info',
+        location: 'Paris, France',
+        lat: 48.84,
+        lng: 2.25,
+        channelId: 'UCO6K_kkdP-lnSCiO3tPx7WA'
+    },
+    {
+        handle: '@tagesschau',
+        name: 'Tagesschau',
+        location: 'Hamburg, Germany',
+        lat: 53.5511,
+        lng: 9.9937,
+        channelId: 'UC5NOEUbkLheQcaaRldYW5GA'
+    },
+    {
+        handle: '@canalsur',
+        name: 'Canal Sur',
+        location: 'Seville, Spain',
+        lat: 37.3891,
+        lng: -5.9845,
+        channelId: 'UChtLgH7ZJLqLGWJpBnzy9Lg'
+    },
+    {
+        handle: '@trthaber',
+        name: 'TRT Haber',
+        location: 'Ankara, Turkey',
+        lat: 39.9208,
+        lng: 32.8541,
+        channelId: 'UCBgTP2LOFVPmq15W-RH-WXA'
+    },
+    {
+        handle: '@ahaber',
+        name: 'A Haber',
+        location: 'Istanbul, Turkey',
+        lat: 41.0082,
+        lng: 28.9784,
+        channelId: 'UCKQhfw-lzz0uKnE1fY1PsAA'
+    },
+    {
+        handle: '@NTV',
+        name: 'NTV Turkey',
+        location: 'Istanbul, Turkey',
+        lat: 41.01,
+        lng: 28.98,
+        channelId: 'UC9TDTjbOjFB9jADmPhSAPsw'
+    },
+    {
+        handle: '@haberturktv',
+        name: 'Habertürk TV',
+        location: 'Istanbul, Turkey',
+        lat: 41.012,
+        lng: 28.982,
+        channelId: 'UCn6dNfiRE_Xunu7iMyvD7AA'
+    },
+    {
+        handle: '@cnnturk',
+        name: 'CNN Türk',
+        location: 'Istanbul, Turkey',
+        lat: 41.014,
+        lng: 28.984,
+        channelId: 'UCV6zcRug6Hqp1UX_FdyUeBg'
+    },
+    {
+        handle: '@halktv',
+        name: 'Halk TV',
+        location: 'Istanbul, Turkey',
+        lat: 41.016,
+        lng: 28.986
+    },
+    {
+        handle: '@sozcutelevizyonu',
+        name: 'Sözcü TV',
+        location: 'Istanbul, Turkey',
+        lat: 41.018,
+        lng: 28.988,
+        channelId: 'UCOulx_rep5O4i9y6AyDqVvw'
+    },
+    {
+        handle: '@tsn',
+        name: 'TSN',
+        location: 'Kyiv, Ukraine',
+        lat: 50.4501,
+        lng: 30.5234,
+        channelId: 'UCXoJ8kY9zpLBEz-8saaT3ew'
+    },
+    {
+        handle: '@espresotv',
+        name: 'Espreso.tv',
+        location: 'Kyiv, Ukraine',
+        lat: 50.452,
+        lng: 30.525,
+        channelId: 'UCMEiyV8N2J93GdPNltPYM6w'
+    },
+    {
+        handle: '@geonews',
+        name: 'Geo News',
+        location: 'Karachi, Pakistan',
+        lat: 24.8607,
+        lng: 67.0011,
+        channelId: 'UC_vt34wimdCzdkrzVejwX9g'
+    },
+    {
+        handle: '@ARYNews',
+        name: 'ARY News',
+        location: 'Karachi, Pakistan',
+        lat: 24.862,
+        lng: 67.003
+    },
+    {
+        handle: '@SamaaTV',
+        name: 'Samaa TV',
+        location: 'Karachi, Pakistan',
+        lat: 24.864,
+        lng: 67.005,
+        channelId: 'UCJekW1Vj5fCVEGdye_mBN6Q'
+    },
+    {
+        handle: '@dunyanews',
+        name: 'Dunya News',
+        location: 'Lahore, Pakistan',
+        lat: 31.5204,
+        lng: 74.3587,
+        channelId: 'UCG7xCQTxgy93j6r49wl48rw'
+    },
+    {
+        handle: '@ExpressNews',
+        name: 'Express News',
+        location: 'Lahore, Pakistan',
+        lat: 31.522,
+        lng: 74.36
+    },
+    {
+        handle: '@BOLNetwork',
+        name: 'Bol News',
+        location: 'Karachi, Pakistan',
+        lat: 24.866,
+        lng: 67.007
+    },
+    {
+        handle: '@92newshd',
+        name: '92 News',
+        location: 'Lahore, Pakistan',
+        lat: 31.524,
+        lng: 74.362
+    },
+    {
+        handle: '@HumNewsPakistan',
+        name: 'Hum News',
+        location: 'Islamabad, Pakistan',
+        lat: 33.6844,
+        lng: 73.0479,
+        channelId: 'UC0Um3pnZ2WGBEeoA3BX2sKw'
+    },
+    {
+        handle: '@somoytvnetupdate',
+        name: 'Somoy TV',
+        location: 'Dhaka, Bangladesh',
+        lat: 23.8103,
+        lng: 90.4125
+    },
+    {
+        handle: '@jamunatv',
+        name: 'Jamuna TV',
+        location: 'Dhaka, Bangladesh',
+        lat: 23.812,
+        lng: 90.414
+    },
+    {
+        handle: '@channel24',
+        name: 'Channel 24',
+        location: 'Dhaka, Bangladesh',
+        lat: 23.814,
+        lng: 90.416,
+        channelId: 'UCTqKPB3dPUAKqmRJhtF-Lig'
+    },
+    {
+        handle: '@IndependentTelevision',
+        name: 'Independent TV',
+        location: 'Dhaka, Bangladesh',
+        lat: 23.816,
+        lng: 90.418,
+        channelId: 'UCATUkaOHwO9EP_W87zCiPbA'
+    },
+    {
+        handle: '@DBCNews',
+        name: 'DBC News',
+        location: 'Dhaka, Bangladesh',
+        lat: 23.818,
+        lng: 90.42,
+        channelId: 'UC5pChk_evEhlVaEEV5-C4yg'
+    },
+    {
+        handle: '@Ekattor',
+        name: 'Ekattor TV',
+        location: 'Dhaka, Bangladesh',
+        lat: 23.82,
+        lng: 90.422
+    },
+    {
+        handle: '@AdaDerana',
+        name: 'Ada Derana',
+        location: 'Colombo, Sri Lanka',
+        lat: 6.9271,
+        lng: 79.8612,
+        channelId: 'UCK-ZW31svFPfqrS-KetoNWg'
+    },
+    {
+        handle: '@hirunews',
+        name: 'Hiru News',
+        location: 'Colombo, Sri Lanka',
+        lat: 6.929,
+        lng: 79.863
+    },
+    {
+        handle: '@KantipurTVHD',
+        name: 'Kantipur TV',
+        location: 'Kathmandu, Nepal',
+        lat: 27.7172,
+        lng: 85.324,
+        channelId: 'UC3yDoaqQzOd1bNP74ZrGPTA'
+    },
+    {
+        handle: '@news24nepal',
+        name: 'News24 Nepal',
+        location: 'Kathmandu, Nepal',
+        lat: 27.719,
+        lng: 85.326
+    },
+    {
+        handle: '@inquirerdotnet',
+        name: 'INQUIRER',
+        location: 'Manila, Philippines',
+        lat: 14.5995,
+        lng: 120.9842,
+        channelId: 'UCvRAX-ujvZ0eTMLGG2vki9w'
+    },
+    {
+        handle: '@rappler',
+        name: 'Rappler',
+        location: 'Manila, Philippines',
+        lat: 14.601,
+        lng: 120.986,
+        channelId: 'UCdnZdQxYXnbN4uWJg96oGxw'
+    },
+    {
+        handle: '@News5Everywhere',
+        name: 'News5',
+        location: 'Manila, Philippines',
+        lat: 14.603,
+        lng: 120.988,
+        channelId: 'UCGEbMwiX774cseKvJqF9R2g'
+    },
+    {
+        handle: '@SETiNEWS',
+        name: 'SET iNEWS',
+        location: 'Taipei, Taiwan',
+        lat: 25.04,
+        lng: 121.51
+    },
+    {
+        handle: '@FTV_News',
+        name: 'FTV News',
+        location: 'Taipei, Taiwan',
+        lat: 25.042,
+        lng: 121.512,
+        channelId: 'UC2VmWn8dAqkzlQqvy02E1PA'
+    },
+    {
+        handle: '@ctsnewschannel',
+        name: 'CTS News',
+        location: 'Taipei, Taiwan',
+        lat: 25.044,
+        lng: 121.514
+    },
+    {
+        handle: '@RTHK_News',
+        name: 'RTHK News',
+        location: 'Hong Kong',
+        lat: 22.3193,
+        lng: 114.1694,
+        channelId: 'UCwuTCNZqSMfaiP63cGDb8LQ'
+    },
+    {
+        handle: '@NowNewsHD',
+        name: 'Now News',
+        location: 'Hong Kong',
+        lat: 22.321,
+        lng: 114.171
+    },
+    {
+        handle: '@K24TV',
+        name: 'K24 TV',
+        location: 'Nairobi, Kenya',
+        lat: -1.285,
+        lng: 36.818,
+        channelId: 'UCt3SE-Mvs3WwP7UW-PiFdqQ'
+    },
+    {
+        handle: '@InooroTV',
+        name: 'Inooro TV',
+        location: 'Nairobi, Kenya',
+        lat: -1.287,
+        lng: 36.82
     }
 ];
 

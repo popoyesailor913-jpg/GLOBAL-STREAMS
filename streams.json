@@ -1,14 +1,5 @@
 [
   {
-    "id": "yt-TTV_NEWS",
-    "name": "TTV News",
-    "location": "Taipei, Taiwan",
-    "lat": 25.0487,
-    "lng": 121.5471,
-    "type": "youtube",
-    "url": "https://www.youtube.com/embed/zQZRwOmLXCU?autoplay=1"
-  },
-  {
     "id": "yt-CBSNews",
     "name": "CBS News",
     "location": "New York, USA",
@@ -16,285 +7,6 @@
     "lng": -73.988,
     "type": "youtube",
     "url": "https://www.youtube.com/embed/oLKZkvH9q7o?autoplay=1"
-  },
-  {
-    "id": "yt-cnnnews18",
-    "name": "CNN-News18",
-    "location": "Noida, India",
-    "lat": 28.58,
-    "lng": 77.32,
-    "type": "youtube",
-    "url": "https://www.youtube.com/embed/zWeR-V7gMsM?autoplay=1"
-  },
-  {
-    "id": "yt-ANNnewsCH",
-    "name": "ANN",
-    "location": "Tokyo, Japan",
-    "lat": 35.6605,
-    "lng": 139.7292,
-    "type": "youtube",
-    "url": "https://www.youtube.com/embed/Bp3Fx3p3q3Q?autoplay=1"
-  },
-  {
-    "id": "yt-WION",
-    "name": "WION",
-    "location": "New Delhi, India",
-    "lat": 28.5447,
-    "lng": 77.323,
-    "type": "youtube",
-    "url": "https://www.youtube.com/embed/J4QGczVr2Qw?autoplay=1"
-  },
-  {
-    "id": "yt-TV9Bharatvarsh",
-    "name": "TV9 Bharatvarsh",
-    "location": "Noida, India",
-    "lat": 28.61,
-    "lng": 77.35,
-    "type": "youtube",
-    "url": "https://www.youtube.com/embed/2h6Hfxs3Fa0?autoplay=1"
-  },
-  {
-    "id": "yt-abntelugutv",
-    "name": "ABN Andhrajyothy",
-    "location": "Hyderabad, India",
-    "lat": 17.41,
-    "lng": 78.5,
-    "type": "youtube",
-    "url": "https://www.youtube.com/embed/pKt38FHedyk?autoplay=1"
-  },
-  {
-    "id": "yt-indiatoday",
-    "name": "India Today",
-    "location": "Noida, India",
-    "lat": 28.59,
-    "lng": 77.33,
-    "type": "youtube",
-    "url": "https://www.youtube.com/embed/wxADVztntcM?autoplay=1"
-  },
-  {
-    "id": "yt-gmanews",
-    "name": "GMA News",
-    "location": "Quezon City, Philippines",
-    "lat": 14.6341,
-    "lng": 121.0436,
-    "type": "youtube",
-    "url": "https://www.youtube.com/embed/3RM6UdOv4zU?autoplay=1"
-  },
-  {
-    "id": "yt-livenowfox",
-    "name": "LiveNOW from FOX",
-    "location": "Orlando, USA",
-    "lat": 28.5383,
-    "lng": -81.3792,
-    "type": "youtube",
-    "url": "https://www.youtube.com/embed/hZx4qqnC2R0?autoplay=1"
-  },
-  {
-    "id": "yt-ndtv",
-    "name": "NDTV 24x7",
-    "location": "New Delhi, India",
-    "lat": 28.55,
-    "lng": 77.24,
-    "type": "youtube",
-    "url": "https://www.youtube.com/embed/0uRlhy7JVAw?autoplay=1"
-  },
-  {
-    "id": "yt-ABCNews",
-    "name": "ABC News",
-    "location": "New York, USA",
-    "lat": 40.7735,
-    "lng": -73.9818,
-    "type": "youtube",
-    "url": "https://www.youtube.com/embed/J91eUyB_Fuc?autoplay=1"
-  },
-  {
-    "id": "yt-abscbnnews",
-    "name": "ABS-CBN News",
-    "location": "Quezon City, Philippines",
-    "lat": 14.6402,
-    "lng": 121.0371,
-    "type": "youtube",
-    "url": "https://www.youtube.com/embed/rIkpGunq2ZA?autoplay=1"
-  },
-  {
-    "id": "yt-telediariomx",
-    "name": "Telediario",
-    "location": "Mexico City, Mexico",
-    "lat": 19.435,
-    "lng": -99.145,
-    "type": "youtube",
-    "url": "https://www.youtube.com/embed/8mUEZenzpcE?autoplay=1"
-  },
-  {
-    "id": "yt-recordnews",
-    "name": "Record News",
-    "location": "São Paulo, Brazil",
-    "lat": -23.5337,
-    "lng": -46.6252,
-    "type": "youtube",
-    "url": "https://www.youtube.com/embed/z5G6JGzhvLA?autoplay=1"
-  },
-  {
-    "id": "yt-c5n",
-    "name": "C5N",
-    "location": "Buenos Aires, Argentina",
-    "lat": -34.5815,
-    "lng": -58.4316,
-    "type": "youtube",
-    "url": "https://www.youtube.com/embed/j6oh4Kqz3UM?autoplay=1"
-  },
-  {
-    "id": "yt-abpasmitatv",
-    "name": "ABP Asmita",
-    "location": "Ahmedabad, India",
-    "lat": 23.02,
-    "lng": 72.57,
-    "type": "youtube",
-    "url": "https://www.youtube.com/embed/-VEUDOysnaQ?autoplay=1"
-  },
-  {
-    "id": "yt-sbsnews8",
-    "name": "SBS News",
-    "location": "Seoul, South Korea",
-    "lat": 37.5298,
-    "lng": 126.8736,
-    "type": "youtube",
-    "url": "https://www.youtube.com/embed/rWw8h7tRzj4?autoplay=1"
-  },
-  {
-    "id": "yt-SandeshNewsTV",
-    "name": "Sandesh News",
-    "location": "Ahmedabad, India",
-    "lat": 23.01,
-    "lng": 72.56,
-    "type": "youtube",
-    "url": "https://www.youtube.com/embed/ckLplJsmWVU?autoplay=1"
-  },
-  {
-    "id": "yt-abpanandatv",
-    "name": "ABP Ananda",
-    "location": "Kolkata, India",
-    "lat": 22.57,
-    "lng": 88.36,
-    "type": "youtube",
-    "url": "https://www.youtube.com/embed/_QVLLYecm6Q?autoplay=1"
-  },
-  {
-    "id": "yt-jovempannews",
-    "name": "Jovem Pan News",
-    "location": "São Paulo, Brazil",
-    "lat": -23.5505,
-    "lng": -46.6333,
-    "type": "youtube",
-    "url": "https://www.youtube.com/embed/tm1pY4tX4nk?autoplay=1"
-  },
-  {
-    "id": "yt-ThaiPBS",
-    "name": "ThaiPBS",
-    "location": "Bangkok, Thailand",
-    "lat": 13.8732,
-    "lng": 100.5746,
-    "type": "youtube",
-    "url": "https://www.youtube.com/embed/A3Gb95-1dxA?autoplay=1"
-  },
-  {
-    "id": "yt-abpmajhatv",
-    "name": "ABP Majha",
-    "location": "Mumbai, India",
-    "lat": 19.05,
-    "lng": 72.85,
-    "type": "youtube",
-    "url": "https://www.youtube.com/embed/vyqWOJ8Ss1M?autoplay=1"
-  },
-  {
-    "id": "yt-MBCNEWS11",
-    "name": "MBC News",
-    "location": "Seoul, South Korea",
-    "lat": 37.5804,
-    "lng": 126.8906,
-    "type": "youtube",
-    "url": "https://www.youtube.com/embed/Otk8uiOkFWk?autoplay=1"
-  },
-  {
-    "id": "yt-GBNewsOnline",
-    "name": "GB News",
-    "location": "London, UK",
-    "lat": 51.5072,
-    "lng": -0.1276,
-    "type": "youtube",
-    "url": "https://www.youtube.com/embed/jBpGj_tcBSY?autoplay=1"
-  },
-  {
-    "id": "yt-FNNnewsCH",
-    "name": "FNN",
-    "location": "Tokyo, Japan",
-    "lat": 35.6268,
-    "lng": 139.7766,
-    "type": "youtube",
-    "url": "https://www.youtube.com/embed/DN7l8QuMm40?autoplay=1"
-  },
-  {
-    "id": "yt-ytnnews24",
-    "name": "YTN",
-    "location": "Seoul, South Korea",
-    "lat": 37.5791,
-    "lng": 126.8893,
-    "type": "youtube",
-    "url": "https://www.youtube.com/embed/zxSdy3-5DUw?autoplay=1"
-  },
-  {
-    "id": "yt-News18TamilNadu",
-    "name": "News18 Tamil Nadu",
-    "location": "Chennai, India",
-    "lat": 13.07,
-    "lng": 80.26,
-    "type": "youtube",
-    "url": "https://www.youtube.com/embed/8wJ5k5a52dc?autoplay=1"
-  },
-  {
-    "id": "yt-AsianetSuvarnaNews",
-    "name": "Suvarna News",
-    "location": "Bangalore, India",
-    "lat": 12.96,
-    "lng": 77.58,
-    "type": "youtube",
-    "url": "https://www.youtube.com/embed/8__b9rYAQ_E?autoplay=1"
-  },
-  {
-    "id": "yt-TNewsTelugu",
-    "name": "T News",
-    "location": "Hyderabad, India",
-    "lat": 17.37,
-    "lng": 78.46,
-    "type": "youtube",
-    "url": "https://www.youtube.com/embed/Sx1wunTMtcQ?autoplay=1"
-  },
-  {
-    "id": "yt-TimesNow",
-    "name": "Times Now",
-    "location": "Mumbai, India",
-    "lat": 19.06,
-    "lng": 72.86,
-    "type": "youtube",
-    "url": "https://www.youtube.com/embed/KIZ8LSJOJoE?autoplay=1"
-  },
-  {
-    "id": "yt-abpnews",
-    "name": "ABP News",
-    "location": "Noida, India",
-    "lat": 28.56,
-    "lng": 77.3,
-    "type": "youtube",
-    "url": "https://www.youtube.com/embed/L_Xi4_s04K0?autoplay=1"
-  },
-  {
-    "id": "yt-metrotvnews",
-    "name": "Metro TV",
-    "location": "Jakarta, Indonesia",
-    "lat": -6.195,
-    "lng": 106.7648,
-    "type": "youtube",
-    "url": "https://www.youtube.com/embed/hjNOqYN6UJo?autoplay=1"
   },
   {
     "id": "yt-NBCNews",
@@ -306,6 +18,132 @@
     "url": "https://www.youtube.com/embed/uQel-avLSjI?autoplay=1"
   },
   {
+    "id": "yt-FNNnewsCH",
+    "name": "FNN",
+    "location": "Tokyo, Japan",
+    "lat": 35.6268,
+    "lng": 139.7766,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/DN7l8QuMm40?autoplay=1"
+  },
+  {
+    "id": "yt-ANNnewsCH",
+    "name": "ANN",
+    "location": "Tokyo, Japan",
+    "lat": 35.6605,
+    "lng": 139.7292,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/Bp3Fx3p3q3Q?autoplay=1"
+  },
+  {
+    "id": "yt-ABCNews",
+    "name": "ABC News",
+    "location": "New York, USA",
+    "lat": 40.7735,
+    "lng": -73.9818,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/J91eUyB_Fuc?autoplay=1"
+  },
+  {
+    "id": "yt-abpnews",
+    "name": "ABP News",
+    "location": "Noida, India",
+    "lat": 28.56,
+    "lng": 77.3,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/L_Xi4_s04K0?autoplay=1"
+  },
+  {
+    "id": "yt-gmanews",
+    "name": "GMA News",
+    "location": "Quezon City, Philippines",
+    "lat": 14.6341,
+    "lng": 121.0436,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/3RM6UdOv4zU?autoplay=1"
+  },
+  {
+    "id": "yt-TimesNow",
+    "name": "Times Now",
+    "location": "Mumbai, India",
+    "lat": 19.06,
+    "lng": 72.86,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/KIZ8LSJOJoE?autoplay=1"
+  },
+  {
+    "id": "yt-livenowfox",
+    "name": "LiveNOW from FOX",
+    "location": "Orlando, USA",
+    "lat": 28.5383,
+    "lng": -81.3792,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/hZx4qqnC2R0?autoplay=1"
+  },
+  {
+    "id": "yt-c5n",
+    "name": "C5N",
+    "location": "Buenos Aires, Argentina",
+    "lat": -34.5815,
+    "lng": -58.4316,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/j6oh4Kqz3UM?autoplay=1"
+  },
+  {
+    "id": "yt-recordnews",
+    "name": "Record News",
+    "location": "São Paulo, Brazil",
+    "lat": -23.5337,
+    "lng": -46.6252,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/z5G6JGzhvLA?autoplay=1"
+  },
+  {
+    "id": "yt-abpmajhatv",
+    "name": "ABP Majha",
+    "location": "Mumbai, India",
+    "lat": 19.05,
+    "lng": 72.85,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/vyqWOJ8Ss1M?autoplay=1"
+  },
+  {
+    "id": "yt-jovempannews",
+    "name": "Jovem Pan News",
+    "location": "São Paulo, Brazil",
+    "lat": -23.5505,
+    "lng": -46.6333,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/tm1pY4tX4nk?autoplay=1"
+  },
+  {
+    "id": "yt-cnnnews18",
+    "name": "CNN-News18",
+    "location": "Noida, India",
+    "lat": 28.58,
+    "lng": 77.32,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/zWeR-V7gMsM?autoplay=1"
+  },
+  {
+    "id": "yt-abpanandatv",
+    "name": "ABP Ananda",
+    "location": "Kolkata, India",
+    "lat": 22.57,
+    "lng": 88.36,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/_QVLLYecm6Q?autoplay=1"
+  },
+  {
+    "id": "yt-telediariomx",
+    "name": "Telediario",
+    "location": "Mexico City, Mexico",
+    "lat": 19.435,
+    "lng": -99.145,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/8mUEZenzpcE?autoplay=1"
+  },
+  {
     "id": "yt-RepublicWorld",
     "name": "Republic TV",
     "location": "Mumbai, India",
@@ -315,6 +153,105 @@
     "url": "https://www.youtube.com/embed/yCh6dQ7M7kA?autoplay=1"
   },
   {
+    "id": "yt-indiatoday",
+    "name": "India Today",
+    "location": "Noida, India",
+    "lat": 28.59,
+    "lng": 77.33,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/wxADVztntcM?autoplay=1"
+  },
+  {
+    "id": "yt-GBNewsOnline",
+    "name": "GB News",
+    "location": "London, UK",
+    "lat": 51.5072,
+    "lng": -0.1276,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/jBpGj_tcBSY?autoplay=1"
+  },
+  {
+    "id": "yt-News18TamilNadu",
+    "name": "News18 Tamil Nadu",
+    "location": "Chennai, India",
+    "lat": 13.07,
+    "lng": 80.26,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/8wJ5k5a52dc?autoplay=1"
+  },
+  {
+    "id": "yt-WION",
+    "name": "WION",
+    "location": "New Delhi, India",
+    "lat": 28.5447,
+    "lng": 77.323,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/J4QGczVr2Qw?autoplay=1"
+  },
+  {
+    "id": "yt-cnnbrasil",
+    "name": "CNN Brasil",
+    "location": "São Paulo, Brazil",
+    "lat": -23.56,
+    "lng": -46.65,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/QnxoZG0gmDY?autoplay=1"
+  },
+  {
+    "id": "yt-abpasmitatv",
+    "name": "ABP Asmita",
+    "location": "Ahmedabad, India",
+    "lat": 23.02,
+    "lng": 72.57,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/-VEUDOysnaQ?autoplay=1"
+  },
+  {
+    "id": "yt-sbtnews",
+    "name": "SBT News",
+    "location": "São Paulo, Brazil",
+    "lat": -23.555,
+    "lng": -46.64,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/DOgbhL7-yrU?autoplay=1"
+  },
+  {
+    "id": "yt-RPPNoticias",
+    "name": "RPP Noticias",
+    "location": "Lima, Peru",
+    "lat": -12.05,
+    "lng": -77.04,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/4YawqXpy1CY?autoplay=1"
+  },
+  {
+    "id": "yt-haberturktv",
+    "name": "Habertürk TV",
+    "location": "Istanbul, Turkey",
+    "lat": 41.012,
+    "lng": 28.982,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/DK43AHk0W34?autoplay=1"
+  },
+  {
+    "id": "yt-rappler",
+    "name": "Rappler",
+    "location": "Manila, Philippines",
+    "lat": 14.601,
+    "lng": 120.986,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/YwYqryuVU8w?autoplay=1"
+  },
+  {
+    "id": "yt-SandeshNewsTV",
+    "name": "Sandesh News",
+    "location": "Ahmedabad, India",
+    "lat": 23.01,
+    "lng": 72.56,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/ckLplJsmWVU?autoplay=1"
+  },
+  {
     "id": "yt-Zee24Ghanta",
     "name": "Zee 24 Ghanta",
     "location": "Kolkata, India",
@@ -322,5 +259,194 @@
     "lng": 88.35,
     "type": "youtube",
     "url": "https://www.youtube.com/embed/KjXUmN-yci4?autoplay=1"
+  },
+  {
+    "id": "yt-abc7LA",
+    "name": "ABC7 LA",
+    "location": "Los Angeles, USA",
+    "lat": 34.06,
+    "lng": -118.25,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/rPsZZaB4rfo?autoplay=1"
+  },
+  {
+    "id": "yt-latinanoticias",
+    "name": "Latina Noticias",
+    "location": "Lima, Peru",
+    "lat": -12.06,
+    "lng": -77.03,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/3zgXsbynzRQ?autoplay=1"
+  },
+  {
+    "id": "yt-metrotvnews",
+    "name": "Metro TV",
+    "location": "Jakarta, Indonesia",
+    "lat": -6.195,
+    "lng": 106.7648,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/hjNOqYN6UJo?autoplay=1"
+  },
+  {
+    "id": "yt-ytnnews24",
+    "name": "YTN",
+    "location": "Seoul, South Korea",
+    "lat": 37.5791,
+    "lng": 126.8893,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/8mh-9F5h0_o?autoplay=1"
+  },
+  {
+    "id": "yt-Canal26",
+    "name": "Canal 26",
+    "location": "Buenos Aires, Argentina",
+    "lat": -34.605,
+    "lng": -58.385,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/ovtRX05PvO8?autoplay=1"
+  },
+  {
+    "id": "yt-abntelugutv",
+    "name": "ABN Andhrajyothy",
+    "location": "Hyderabad, India",
+    "lat": 17.41,
+    "lng": 78.5,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/pKt38FHedyk?autoplay=1"
+  },
+  {
+    "id": "yt-News5Everywhere",
+    "name": "News5",
+    "location": "Manila, Philippines",
+    "lat": 14.603,
+    "lng": 120.988,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/xMUYDXjHlgQ?autoplay=1"
+  },
+  {
+    "id": "yt-News18Kannada",
+    "name": "News18 Kannada",
+    "location": "Bangalore, India",
+    "lat": 12.99,
+    "lng": 77.61,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/Zm27Y5nyAk0?autoplay=1"
+  },
+  {
+    "id": "yt-abscbnnews",
+    "name": "ABS-CBN News",
+    "location": "Quezon City, Philippines",
+    "lat": 14.6402,
+    "lng": 121.0371,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/0cPbhRNs76c?autoplay=1"
+  },
+  {
+    "id": "yt-canalsur",
+    "name": "Canal Sur",
+    "location": "Seville, Spain",
+    "lat": 37.3891,
+    "lng": -5.9845,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/e_oYf-DMTQ4?autoplay=1"
+  },
+  {
+    "id": "yt-AsianetSuvarnaNews",
+    "name": "Suvarna News",
+    "location": "Bangalore, India",
+    "lat": 12.96,
+    "lng": 77.58,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/8__b9rYAQ_E?autoplay=1"
+  },
+  {
+    "id": "yt-tsn",
+    "name": "TSN",
+    "location": "Kyiv, Ukraine",
+    "lat": 50.4501,
+    "lng": 30.5234,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/TFGSh-0ADR4?autoplay=1"
+  },
+  {
+    "id": "yt-TV9Bharatvarsh",
+    "name": "TV9 Bharatvarsh",
+    "location": "Noida, India",
+    "lat": 28.61,
+    "lng": 77.35,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/2h6Hfxs3Fa0?autoplay=1"
+  },
+  {
+    "id": "yt-sbsnews8",
+    "name": "SBS News",
+    "location": "Seoul, South Korea",
+    "lat": 37.5298,
+    "lng": 126.8736,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/rWw8h7tRzj4?autoplay=1"
+  },
+  {
+    "id": "yt-ahaber",
+    "name": "A Haber",
+    "location": "Istanbul, Turkey",
+    "lat": 41.0082,
+    "lng": 28.9784,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/lSQTl1e6Lh8?autoplay=1"
+  },
+  {
+    "id": "yt-TNewsTelugu",
+    "name": "T News",
+    "location": "Hyderabad, India",
+    "lat": 17.37,
+    "lng": 78.46,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/Sx1wunTMtcQ?autoplay=1"
+  },
+  {
+    "id": "yt-MBCNEWS11",
+    "name": "MBC News",
+    "location": "Seoul, South Korea",
+    "lat": 37.5804,
+    "lng": 126.8906,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/fj2A3UmERC0?autoplay=1"
+  },
+  {
+    "id": "yt-inquirerdotnet",
+    "name": "INQUIRER",
+    "location": "Manila, Philippines",
+    "lat": 14.5995,
+    "lng": 120.9842,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/bVz7qsmM9B8?autoplay=1"
+  },
+  {
+    "id": "yt-ndtv",
+    "name": "NDTV 24x7",
+    "location": "New Delhi, India",
+    "lat": 28.55,
+    "lng": 77.24,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/koTn9sdOIFQ?autoplay=1"
+  },
+  {
+    "id": "yt-abc13houston",
+    "name": "ABC13 Houston",
+    "location": "Houston, USA",
+    "lat": 29.765,
+    "lng": -95.37,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/1fcNf0CnHb8?autoplay=1"
+  },
+  {
+    "id": "yt-K24TV",
+    "name": "K24 TV",
+    "location": "Nairobi, Kenya",
+    "lat": -1.285,
+    "lng": 36.818,
+    "type": "youtube",
+    "url": "https://www.youtube.com/embed/PWt-fTmGvt8?autoplay=1"
   }
 ]
